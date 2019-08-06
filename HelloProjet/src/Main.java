@@ -8,5 +8,6 @@ public class Main {
         System.out.println("再次向服务器中提交");
 		System.out.println("主程再次向服务器中提交");
 		System.out.println("李四向服务器中提交");
+        System.out.println("idea");
     }
 }
